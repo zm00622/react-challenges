@@ -43,6 +43,12 @@ body {
   animation-timing-function: linear;
 }
 
+.msg:focus {
+  outline-color: limegreen;
+}
+
+
+
 @keyframes blink {
   0% {
     opacity: 0;
