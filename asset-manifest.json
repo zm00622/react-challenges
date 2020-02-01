@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-challenges/static/css/main.33fb23d2.chunk.css",
-    "main.js": "/react-challenges/static/js/main.45ee7cff.chunk.js",
-    "main.js.map": "/react-challenges/static/js/main.45ee7cff.chunk.js.map",
+    "main.css": "/react-challenges/static/css/main.f4931564.chunk.css",
+    "main.js": "/react-challenges/static/js/main.6ec391a1.chunk.js",
+    "main.js.map": "/react-challenges/static/js/main.6ec391a1.chunk.js.map",
     "runtime-main.js": "/react-challenges/static/js/runtime-main.13ba0341.js",
     "runtime-main.js.map": "/react-challenges/static/js/runtime-main.13ba0341.js.map",
     "static/js/2.6df63047.chunk.js": "/react-challenges/static/js/2.6df63047.chunk.js",
     "static/js/2.6df63047.chunk.js.map": "/react-challenges/static/js/2.6df63047.chunk.js.map",
     "index.html": "/react-challenges/index.html",
-    "precache-manifest.21efec563337edf9334ba9585c38a977.js": "/react-challenges/precache-manifest.21efec563337edf9334ba9585c38a977.js",
+    "precache-manifest.5427f409312cf199705913ff7db9cd02.js": "/react-challenges/precache-manifest.5427f409312cf199705913ff7db9cd02.js",
     "service-worker.js": "/react-challenges/service-worker.js",
-    "static/css/main.33fb23d2.chunk.css.map": "/react-challenges/static/css/main.33fb23d2.chunk.css.map",
+    "static/css/main.f4931564.chunk.css.map": "/react-challenges/static/css/main.f4931564.chunk.css.map",
     "static/js/2.6df63047.chunk.js.LICENSE.txt": "/react-challenges/static/js/2.6df63047.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.13ba0341.js",
     "static/js/2.6df63047.chunk.js",
-    "static/css/main.33fb23d2.chunk.css",
-    "static/js/main.45ee7cff.chunk.js"
+    "static/css/main.f4931564.chunk.css",
+    "static/js/main.6ec391a1.chunk.js"
   ]
 }
