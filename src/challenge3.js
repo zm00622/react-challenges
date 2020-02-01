@@ -21,7 +21,7 @@ function CodingChallenge() {
         <form onSubmit={handleSubmit}>
           <h1>Enter your name to see if you're welcome here</h1>
           <input id="InputBox" type="text"></input>
-          <button>Enter</button>
+          <button id="EnterButton">Enter</button>
           <h3 id="DisplayText"></h3>
         </form>
       </div>

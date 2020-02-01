@@ -9,22 +9,64 @@
 
 const App = () => {
 
-
-
     return (
-      <div>
+      <div class="react-challenges">
         <CodingChallenge>
         </CodingChallenge>
         <HackerAnimation>
-        {window.onload = (event) => {
-          return HackerAnimation();
-        }}
         </HackerAnimation>
       </div>
     );
   };
 
 ReactDOM.render(<App />, document.querySelector('#root'));
+
+
+// File Copy
+
+// import React from 'react';
+// import ReactDOM from 'react-dom';
+// import './footerstyling.css';
+// import HackerAnimation from './footeranimation.js';
+// import './styling.css';
+// import CodingChallenge from './challenge3.js';
+
+// HTML FILE    !!!!!!!!!!!!!!!!!
+
+// const App = () => {
+//
+//
+//
+//    return (
+//      <div>
+//        <CodingChallenge>
+//        </CodingChallenge>
+//        <HackerAnimation>
+//        {window.onload = (event) => {
+//          return HackerAnimation();
+//        }}
+//        </HackerAnimation>
+//      </div>
+//    );
+//  };
+//
+// ReactDOM.render(<App />, document.querySelector('#root'));
+
+
+// End of file copy
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
