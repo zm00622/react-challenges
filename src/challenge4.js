@@ -30,7 +30,7 @@ function CodingChallenge() {
     return (
       <div>
         <form onSubmit={handleSubmit}>
-          <h1>Enter your name to see if you're welcome here</h1>
+          <h1>Enter your favorite number and we'll sum all of the numbers leading up to it!</h1>
           <input id="InputBox" type="text"></input>
           <button id="EnterButton">Enter</button>
           <h3 id="DisplayText"></h3>
@@ -40,34 +40,3 @@ function CodingChallenge() {
 };
 
 export default CodingChallenge;
-
-
-
-// The code below is an attempt at trying to figure out how to not have automatic update underneath the text box, but rather
-// to update the welcome msg only after the button is clicked again
-
-
-// displayNameHandler = (e) => {
-//   let updatedName = e.target.value;
-//   this.setState({ firstName: updatedName });
-//   //console.log(updatedName);
-// }
-//
-// handleSubmit = (e) => {
-//   e.preventDefault();
-//   this.setState({
-//     showName: true
-//   });
-// }
-
-
-
-
-
-//   resetForm = () => {
-//    this.setState({
-//        ...this.state,
-//        firstname: '',
-//        lastname: ''
-//    })
-// }
