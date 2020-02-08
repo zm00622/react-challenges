@@ -3,7 +3,7 @@
  import './footerstyling.css';
  import HackerAnimation from './footeranimation.js';
  import './styling.css';
- import CodingChallenge from './challenge5.js';
+ import CodingChallenge from './challenge6.js';
 
 // HTML FILE    !!!!!!!!!!!!!!!!!
 
